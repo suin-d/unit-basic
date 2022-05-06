@@ -1,3 +1,4 @@
+// di가 있는 버전
 const ProductClient = require('./product_client');
 class ProductService {
   constructor() {
