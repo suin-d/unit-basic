@@ -1,5 +1,5 @@
 const ProductService = require('../product_service.js');
-const StubProductClient = require('../test/stub_product_client');
+const StubProductClient = require('../test/stub_product_client.js');
 
 describe('ProductService - Stub', () => {
   let productService;
